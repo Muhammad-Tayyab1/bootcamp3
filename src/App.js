@@ -1,5 +1,5 @@
 import React from 'react';
-import Online_Shop from './Online Shop';
+import Online_Shop from './Online shop';
 import './App.css';
 
 function App() {
