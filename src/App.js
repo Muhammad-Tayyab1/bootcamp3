@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import Online_Shop from './Online Shop';
 import './App.css';
 
