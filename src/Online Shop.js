@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Online_shop (props){
+function Online(props){
     return (
         <div> 
 
@@ -12,4 +12,4 @@ function Online_shop (props){
     );
 
 }
-export default Online_shop;
+export default Online;
